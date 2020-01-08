@@ -1,0 +1,207 @@
+
+
+
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -1.1518    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+>  <DSSTox_RID>
+42972
+
+>  <DSSTox_CID>
+1735
+
+>  <DSSTox_Generic_SID>
+21735
+
+>  <DSSTox_FileID>
+5_ARYEXP_Aux_v2a
+
+>  <STRUCTURE_Formula>
+C2H6OS
+
+>  <STRUCTURE_MolecularWeight>
+78.1334
+
+>  <STRUCTURE_ChemicalType>
+defined organic
+
+>  <STRUCTURE_TestedForm_DefinedOrganic>
+parent
+
+>  <STRUCTURE_Shown>
+tested chemical
+
+>  <TestSubstance_ChemicalName>
+Dimethyl sulfoxide
+
+>  <Source_ChemicalName>
+Dimethyl sulfoxide (DMSO)
+
+>  <TestSubstance_CASRN>
+67-68-5
+
+>  <TestSubstance_Description>
+single chemical compound
+
+>  <STRUCTURE_ChemicalName_IUPAC>
+dimethyl sulfoxide
+
+>  <STRUCTURE_SMILES>
+CS(=O)C
+
+>  <STRUCTURE_Parent_SMILES>
+CS(=O)C
+
+>  <STRUCTURE_InChI>
+InChI=1S/C2H6OS/c1-4(2)3/h1-2H3
+
+>  <STRUCTURE_InChIKey>
+IAZDPXIOMUYVGZ-UHFFFAOYSA-N
+
+>  <Substance_modify_yyyymmdd>
+20080429
+
+>  <StudyType>
+microarray
+
+>  <Chemical_StudyType>
+Vehicle
+
+>  <Experiment_Accession>
+E-MANP-2
+
+>  <Experiment_URL>
+http://www.ebi.ac.uk/arrayexpress/experiments/E-MANP-2
+
+>  <Experiment_IdNumber>
+3256053
+
+>  <Experiment_Title>
+Transcription profiling of yeast treated with rapamycin"
+
+>  <Experiment_Description>
+A diploid yeast strain was grown at 30C in YPD medium. At an OD of 0.6 (600nm) rapamycin was added to a final concentration of 0.20 ug/ml and the incubation continued for 90 min. A control culture was treated with an equal amount of DMSO vehicle. Cells were harvested at an OD of 0.9 rapamycin and 1.1 control., (Generated description) Experiment with 4 hybridizations, using 2 samples of species [Saccharomyces cerevisiae], using 4 arrays of array design [EMBLyeast12Kver1.1], producing 0 raw data files and 9 transformed and/or normalized data files.
+
+>  <Experiment_PublicationDate>
+
+
+
+
+>  <Species>
+Saccharomyces cerevisiae
+
+>  <Number_Samples>
+2
+
+>  <Experiment_ArrayAccession>
+A-MANP-2,A-MANP-2
+
+>  <Experiment_ArrayType>
+EMBLyeast12Kver1.1
+
+>  <Experiment_ArrayTitle>
+EMBLyeast12Kver1.1,EMBLyeast12Kver1.1
+
+>  <Experiment_DesignFile_PNG>
+download/mageml/E-MANP-2.biosamples.png
+
+>  <Experiment_DesignFile_SVG>
+download/mageml/E-MANP-2.biosamples.svg
+
+>  <Number_CelFiles_Affymetrix>
+
+
+
+
+>  <Link_ProcessedData>
+download/mageml/E-MANP-2.processed.zip
+
+>  <Number_ProcessedDataFiles>
+9
+
+>  <Number_Hybridizations>
+4
+
+>  <Link_RawData>
+
+
+
+
+>  <Number_RawDataFiles>
+
+
+
+
+>  <Link_SampleDataRelationshipFile>
+download/mageml/E-MANP-2.sdrf.txt
+
+>  <Link_TwoColumnData>
+download/mageml/E-MANP-2.2columns.txt
+
+>  <Experiment_SampleAttributes>
+Organism:Saccharomyces cerevisiae, StrainOrLine:FY1679
+
+>  <Experiment_Factors>
+compound" FV_MEASUREMENT="0.002, scanner type" FV_MEASUREMENT="scanner type
+
+>  <MIAME_Total>
+1
+
+>  <MIAME_ArrayDesign_Score>
+0
+
+>  <MIAME_Factors_Score>
+0
+
+>  <MIAME_RawData_Score>
+0
+
+>  <MIAME_Protocol_Score>
+0
+
+>  <MIAME_ProcessedData_Score>
+1
+
+>  <Experiment_ArrayCount>
+4,4
+
+>  <Experiment_ArrayId>
+3228858;3228858
+
+>  <Experiment_BioassayAccessionCode>
+MANP
+
+>  <Experiment_BioassayCount>
+9
+
+>  <Experiment_BioassayDataFormat>
+tab delimited
+
+>  <Experiment_BioassayId>
+1341872857
+
+>  <Number_BioassayDerived>
+1
+
+>  <Experiment_BioassayTitle>
+DED:1
+
+>  <Number_BadCubes>
+9
+
+>  <Experiment_Submitter>
+contact=Christian Schwager email=schwager@embl-heidelberg.de role=investigator, contact=W Ansorge role=investigator, contact=A Richter role=investigator, contact=Thomas Preiss role=submitter, contact=M Hentze role=investigator
+
+>  <Experiment_DesignType>
+unknown experiment type
+
+>  <Experiment_DescriptionId>
+3256054, 1341873179
+
+$$$$

@@ -1,0 +1,235 @@
+
+
+
+ 17 19  0  0  0  0  0  0  0  0999 V2000
+    2.3012   -3.9858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2905   -4.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7528   -6.0934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5342   -7.1688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8533   -7.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -5.8139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -4.7385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4266   -5.9572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -4.6525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -1.9929    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -0.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+>  <DSSTox_RID>
+42975
+
+>  <DSSTox_CID>
+19
+
+>  <DSSTox_Generic_SID>
+20019
+
+>  <DSSTox_FileID>
+8_ARYEXP_Aux_v2a
+
+>  <STRUCTURE_Formula>
+C15H13NO
+
+>  <STRUCTURE_MolecularWeight>
+223.2698
+
+>  <STRUCTURE_ChemicalType>
+defined organic
+
+>  <STRUCTURE_TestedForm_DefinedOrganic>
+parent
+
+>  <STRUCTURE_Shown>
+tested chemical
+
+>  <TestSubstance_ChemicalName>
+4-Acetylaminofluorene
+
+>  <Source_ChemicalName>
+4-Acetylaminofluorene (4-AAF)
+
+>  <TestSubstance_CASRN>
+28322-02-3
+
+>  <TestSubstance_Description>
+single chemical compound
+
+>  <STRUCTURE_ChemicalName_IUPAC>
+N-9H-fluoren-4-ylacetamide
+
+>  <STRUCTURE_SMILES>
+C12C3=C(C=CC=C3)CC1=CC=CC=2NC(C)=O
+
+>  <STRUCTURE_Parent_SMILES>
+C12C3=C(C=CC=C3)CC1=CC=CC=2NC(C)=O
+
+>  <STRUCTURE_InChI>
+InChI=1S/C15H13NO/c1-10(17)16-14-8-4-6-12-9-11-5-2-3-7-13(11)15(12)14/h2-8H,9H2,1H3,(H,16,17)
+
+>  <STRUCTURE_InChIKey>
+PHPWISAFHNEMSR-UHFFFAOYSA-N
+
+>  <Substance_modify_yyyymmdd>
+20080429
+
+>  <StudyType>
+microarray
+
+>  <Chemical_StudyType>
+Treatment
+
+>  <Experiment_Accession>
+E-MEXP-89
+
+>  <Experiment_URL>
+http://www.ebi.ac.uk/arrayexpress/experiments/E-MEXP-89
+
+>  <Experiment_IdNumber>
+293613099
+
+>  <Experiment_Title>
+Transcription profiling identification of rodent hepatic carcinogenesis"
+
+>  <Experiment_Description>
+3 dose levels of each of 9 compounds were used to dose male SD rats q.d. by oral gavage.  Compounds included 5 nongenotoxic carcinogens (bemitradine, clofibrate, doxylamine, methapyrilene, &amp; phenobarbital), 2 genotoxic agents (tamoxifen and 2-AAF) and 2 non-carcinogens (4-AAF and isoniazid).  This work has been described in Kramer JA, Curtiss SW, Kolaja KL, Alden CA, Blomme EAG, Curtiss WC, Davila JC, Jackson CJ, and Bunch RT. (2004)  Acute Molecular Markers of Rodent Hepatic Carcinogenesis Identified by Transcription Profiling.  Chem. Res. Toxicol., in press. , (Generated description) Experiment with 105 hybridizations, using 80 samples of species [Rattus norvegicus], using 105 arrays of array design [Incyte RatGEM 1.01], producing 105 raw data files and 0 transformed and/or normalized data files.
+
+>  <Experiment_PubMed_Information>
+accession=15089088 authors=Kramer JA, Curtiss SW, Kolaja KL, Alden CA, Blomme EAG, Curtiss WC, Davila JC, Jackson CJ, and Bunch RT issue=4 pages=463-70 publication=Chem Res Toxicol title=Acute molecular markers of rodent hepatic carcinogenesis identified by transcription profiling volume=17 year=2004
+
+>  <Experiment_PublicationDate>
+38043
+
+>  <Species>
+Rattus norvegicus
+
+>  <Number_Samples>
+80
+
+>  <Experiment_ArrayAccession>
+A-MEXP-22,A-MEXP-22
+
+>  <Experiment_ArrayType>
+Incyte RatGEM 1.01
+
+>  <Experiment_ArrayTitle>
+Incyte RatGEM 1.01,Incyte RatGEM 1.01
+
+>  <Experiment_DesignFile_PNG>
+download/mageml/E-MEXP-89.biosamples.png
+
+>  <Experiment_DesignFile_SVG>
+download/mageml/E-MEXP-89.biosamples.svg
+
+>  <Number_CelFiles_Affymetrix>
+0
+
+>  <Link_ProcessedData>
+
+
+
+
+>  <Number_ProcessedDataFiles>
+
+
+
+
+>  <Number_Hybridizations>
+105
+
+>  <Link_RawData>
+download/mageml/E-MEXP-89.raw.zip"
+
+>  <Number_RawDataFiles>
+105
+
+>  <Link_SampleDataRelationshipFile>
+download/mageml/E-MEXP-89.sdrf.txt
+
+>  <Link_TwoColumnData>
+download/mageml/E-MEXP-89.2columns.txt
+
+>  <Experiment_SampleAttributes>
+Age:6 To 7, BioSourceType:frozen_sample, DevelopmentalStage:adult, Individual:1102, Individual:1401, Individual:1403, Individual:1502, Individual:1601, Individual:1603, Individual:1903, Individual:1902, Individual:1901, Individual:1803, Individual:1802, Individual:1801, Individual:1703, Individual:1702, Individual:1701, Individual:5203, Individual:5202, Individual:5201, Individual:5103, Individual:5102, Individual:5101, Individual:4AAFMidPool, Individual:4AAFLowPool, Individual:4AAFHighPool, Individual:7002, Individual:7001, Individual:5903, Individual:5902, Individual:5901, Individual:5603, Individual:5602, Individual:5601, Individual:5503, Individual:CtrlPool, Individual:CloMidPool, Individual:CloLowPool, Individual:CloHighPool, Individual:BemMidPool, Individual:BemLowPool, Individual:BemHighPool, Individual:7503, Individual:7502, TimeUnit:weeks, Sex:male, OrganismPart:liver, Organism:Rattus norvegicus, Individual:TamLowPool, Individual:TamHighPool, Individual:PBMidPool, Individual:PBLowPool, Individual:PBHighPool, Individual:MPMidPool, Individual:MPLowPool, Individual:DoxHighPool, Individual:7501, Individual:7203, Individual:7202, Individual:7201, Individual:7103, Individual:7102, Individual:7101, Individual:7003, Individual:5502, Individual:5501, Individual:5403, Individual:5402, Individual:5401, Individual:5303, Individual:5302, Individual:5301, Individual:3303, Individual:3302, Individual:3301, Individual:3002, Individual:3001, Individual:2AAFMidPool, Individual:2AAFLowPool, Individual:2AAFHighPool, Individual:1602, Individual:1503, Individual:1501, Individual:1402, Individual:1103, Individual:1101
+
+>  <Experiment_Factors>
+compound, dose
+
+>  <MIAME_Total>
+1
+
+>  <MIAME_ArrayDesign_Score>
+0
+
+>  <MIAME_Factors_Score>
+0
+
+>  <MIAME_RawData_Score>
+1
+
+>  <MIAME_Protocol_Score>
+0
+
+>  <MIAME_ProcessedData_Score>
+0
+
+>  <Experiment_ArrayCount>
+105105
+
+>  <Experiment_ArrayId>
+124516633;124516633
+
+>  <Experiment_BioassayAccessionCode>
+MEXP
+
+>  <Experiment_BioassayCount>
+105
+
+>  <Experiment_BioassayDataFormat>
+tab delimited
+
+>  <Experiment_BioassayId>
+1341944760
+
+>  <Number_BioassayDerived>
+0
+
+>  <Experiment_BioassayTitle>
+DED:MEXP:464
+
+>  <Number_BadCubes>
+105
+
+>  <Experiment_Submitter>
+contact=Jeffrey Kramer email=jeffrey.a.kramer@pharmacia.com role=submitter
+
+>  <Experiment_DesignType>
+dose response, compound treatment
+
+>  <Experiment_DescriptionId>
+293613100, 1341958216
+
+$$$$
