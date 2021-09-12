@@ -24,9 +24,7 @@ def degree_node(filename):
         row_names=range(1,index+1)
     return dic,values
 
-dic,values=degree_node("./files/ChEBI_17895.mol")
-print("Degree Node for ChEBI_17895.mol \n {}".format(values))
-print("----------------------")
+
 def get_values_matrix(filename):
     dic,values=degree_node(filename)
     data=np.sum(values!=0, axis=0)
@@ -54,9 +52,6 @@ def morgan(filename, iteration=0):
                     count +=1
     return morgan,dic,data
 
-morgan, dic, data = morgan("./files/ChEBI_17895.mol", 20)
-print("Morgan for ChEBI_17895.mol \n {}".format(morgan))
-print("----------------------")
 
 def ring_perception(filename):
     dic,ring=degree_node(filename)
@@ -76,5 +71,15 @@ def ring_perception(filename):
     else:
         return print("There is no ring structure in {}".format(filename))
 
-ring_perception("./files/ChEBI_17895.mol")
+def main():
+    morgan, dic, data = morgan("./files/ChEBI_17895.mol", 20)
+    print("Morgan for ChEBI_17895.mol \n {}".format(morgan))
+    print("----------------------")
 
+    dic,values=degree_node("./files/ChEBI_17895.mol")
+    print("Degree Node for ChEBI_17895.mol \n {}".format(values))
+    print("----------------------")
+
+    ring_perception("./files/ChEBI_17895.mol")
+
+    
