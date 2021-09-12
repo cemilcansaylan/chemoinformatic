@@ -7,3 +7,6 @@ Desgined for HBM621E-Chemoinformatics at Istanbul TEchnical University
 "degreenode_morgan_ring.py" for determine the degree of nodes and implementation of morgan finger print
 
 "isomorphs.py" for implement to find all Isomorphs for given molecule
+
+
+"gen_alg.py" for genetic algorithm
