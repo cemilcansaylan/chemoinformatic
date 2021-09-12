@@ -71,13 +71,16 @@ def gene_alg(MATRIX, DISTANCE, genes, itaration):
         MATRIX=np.vsplit(MATRIX,2)[0]
         count += 1 
 
-genes = np.arange(0,10)
-NUM_OF_GENE=len(genes)
-POPULATION_SIZE=200
+def main():
+    
+    genes = np.arange(0,10)
+    NUM_OF_GENE=len(genes)
+    POPULATION_SIZE=200
 
-DISTANCE = _distance_matrix(NUM_OF_GENE)
-MATRIX = _init_pop_mat(POPULATION_SIZE, NUM_OF_GENE)
+    DISTANCE = _distance_matrix(NUM_OF_GENE)
+    MATRIX = _init_pop_mat(POPULATION_SIZE, NUM_OF_GENE)
 
-gene_alg(MATRIX, DISTANCE, genes, itaration=10)
+    gene_alg(MATRIX, DISTANCE, genes, itaration=10)
 
-
+if __name__ == "__main__":
+    main()
