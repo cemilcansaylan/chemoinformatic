@@ -55,6 +55,3 @@ def mol_weight(filename):
             print("Molecular weight is : {}".format(name))
 	
 
-write_sdf("./files/sample.sdf")
-
-
