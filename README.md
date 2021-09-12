@@ -8,5 +8,6 @@ Desgined for HBM621E-Chemoinformatics at Istanbul TEchnical University
 
 "isomorphs.py" for implement to find all Isomorphs for given molecule
 
+"similarity.py" for structure similarity check
 
 "gen_alg.py" for genetic algorithm
