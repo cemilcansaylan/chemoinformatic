@@ -60,6 +60,3 @@ def similarity(filename):
                             sim.append((j,k))
                             print("Similarity is detected in between {}".format((j+1,k+1)))
         print("Total similar structure : {}".format(len(sim)))
-
-similarity("./files/Pyr_Pyr_chemo.xyz")
-
