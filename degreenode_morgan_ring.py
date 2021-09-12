@@ -83,3 +83,5 @@ def main():
     ring_perception("./files/ChEBI_17895.mol")
 
     
+if __name__ == "__main__":
+    main()
